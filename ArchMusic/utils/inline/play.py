@@ -221,10 +221,10 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/+xWcg-WBN1oBjMjk1",
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/DevilXD_World",
             ),
             InlineKeyboardButton(
-                text="˹ᴄʜᴀɴɴᴇʟ˼", url="https://t.me/+m4oVCt2zFhYyMTdl",
+                text="˹ᴄʜᴀɴɴᴇʟ˼", url="https://t.me/About_Devil_XD",
             ),
         ],
         [
@@ -232,12 +232,12 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
                 text="˹ᴘʟᴀʏʟɪsᴛ˼", callback_data=f"add_playlist {videoid}",
                 ),
             InlineKeyboardButton(
-                text="˹ᴏᴡɴᴇʀ˼", user_id="1777270311",
+                text="˹ᴏᴡɴᴇʀ˼", user_id="6743351101",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="˹ʏᴏᴜᴛᴜʙᴇ˼", url="https://youtube.com/@LofiBoyraj",
+                text="Devil_Network", url="https://t.me/Devil_fedban",
              ),
         ],
         [
@@ -315,14 +315,14 @@ def panel_markup_1(_, videoid, chat_id):
                 callback_data=f"Pages Back|0|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="1777270311",
+                text="𓆩🖤𓆪", user_id="6743351101",
             ),
             InlineKeyboardButton(
                 text="▹▹",
                 callback_data=f"Pages Forw|0|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/+xWcg-WBN1oBjMjk1"
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/DevilXD_World"
             ),
         ],
     ]
@@ -355,14 +355,14 @@ def panel_markup_2(_, videoid, chat_id):
                 callback_data=f"Pages Back|1|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="1777270311",
+                text="𓆩🖤𓆪", user_id="6743351101",
             ),
             InlineKeyboardButton(
                 text="▹▹",
                 callback_data=f"Pages Forw|1|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/+xWcg-WBN1oBjMjk1"
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/DevilXD_World"
             ),
         ],
     ]
@@ -397,14 +397,14 @@ def panel_markup_3(_, videoid, chat_id):
                 callback_data=f"Pages Back|2|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="1777270311",
+                text="𓆩🖤𓆪", user_id="6743351101",
             ),
             InlineKeyboardButton(
                 text="▹▹",
                 callback_data=f"Pages Forw|2|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/+xWcg-WBN1oBjMjk1"
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/DevilXD_World"
             ),
         ],
     ]
