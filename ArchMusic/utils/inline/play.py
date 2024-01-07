@@ -126,7 +126,7 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="˹sᴏᴜʀᴄᴇ˼", url="https://t.me/+m4oVCt2zFhYyMTdl"
+                text="˹sᴏᴜʀᴄᴇ˼", url="https://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4"
             ),
             InlineKeyboardButton(
                 text="˹ᴘᴀɴᴇʟ˼",
@@ -135,11 +135,11 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𓆩💜𓆪", url="https://t.me/+xWcg-WBN1oBjMjk1")
+                text="𓆩💜𓆪", url="https://t.me/+CsuiXP668yQ1NmFl")
              InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="1777270311")
+                text="𓆩🖤𓆪", user_id="6743351101")
         InlineKeyboardButton(
-                text="𓆩💙𓆪", url="https://youtube.com/@LofiBoyraj",
+                text="𓆩💙𓆪", url="https://t.me/About_Devil_XD",
             )
         ],
     ]
@@ -237,7 +237,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="Devil_Network", url="https://t.me/Devil_fedban",
+                text="Devil_Network", url="https://t.me/Devil_official_federation",
              ),
         ],
         [
