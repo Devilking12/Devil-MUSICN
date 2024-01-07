@@ -70,7 +70,7 @@ UPSTREAM_REPO = getenv(
 
     "UPSTREAM_REPO",
 
-    "https://github.com/NOBITA-RDX/RDX-MUSICN",
+    "https://github.com/Devilking12/Devil-MUSICN",
 
 )
 
