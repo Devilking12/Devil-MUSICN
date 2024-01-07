@@ -67,7 +67,7 @@
 
 ## Deploy On Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NOBITA-RDX/RDX-MUSICN)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devilking12/Devil-MUSICN)
 
 
 ## 🏷 Support
