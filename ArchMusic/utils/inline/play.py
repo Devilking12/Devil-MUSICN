@@ -135,9 +135,9 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𓆩💜𓆪", url="https://t.me/+CsuiXP668yQ1NmFl")
+                text="𓆩💜𓆪", url="https://t.me/feelings_for_you_baby")
              InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="6743351101")
+                text="𓆩🖤𓆪", user_id="6791925138")
         InlineKeyboardButton(
                 text="𓆩💙𓆪", url="https://t.me/About_Devil_XD",
             )
@@ -221,10 +221,10 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/DevilXD_World",
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/Tabahi_chatting_group",
             ),
             InlineKeyboardButton(
-                text="˹ᴄʜᴀɴɴᴇʟ˼", url="https://t.me/About_Devil_XD",
+                text="˹ᴄʜᴀɴɴᴇʟ˼", url="https://t.me/feelings_for_you_baby",
             ),
         ],
         [
@@ -232,12 +232,12 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
                 text="˹ᴘʟᴀʏʟɪsᴛ˼", callback_data=f"add_playlist {videoid}",
                 ),
             InlineKeyboardButton(
-                text="˹ᴏᴡɴᴇʀ˼", user_id="6743351101",
+                text="˹ᴏᴡɴᴇʀ˼", user_id="6791925138",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Devil_Network", url="https://t.me/Devil_official_federation",
+                text="TABAHI_FED", url="https://t.me/TABAHI_FEDERATION",
              ),
         ],
         [
@@ -315,14 +315,14 @@ def panel_markup_1(_, videoid, chat_id):
                 callback_data=f"Pages Back|0|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="6743351101",
+                text="𓆩🖤𓆪", user_id="6791925138",
             ),
             InlineKeyboardButton(
                 text="▹▹",
                 callback_data=f"Pages Forw|0|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/DevilXD_World"
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/Tabahi_chatting_group"
             ),
         ],
     ]
@@ -355,14 +355,14 @@ def panel_markup_2(_, videoid, chat_id):
                 callback_data=f"Pages Back|1|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="6743351101",
+                text="𓆩🖤𓆪", user_id="6791925138",
             ),
             InlineKeyboardButton(
                 text="▹▹",
                 callback_data=f"Pages Forw|1|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/DevilXD_World"
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/Tabahi_chatting_group"
             ),
         ],
     ]
@@ -397,14 +397,14 @@ def panel_markup_3(_, videoid, chat_id):
                 callback_data=f"Pages Back|2|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="6743351101",
+                text="𓆩🖤𓆪", user_id="6791925138",
             ),
             InlineKeyboardButton(
                 text="▹▹",
                 callback_data=f"Pages Forw|2|{videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/DevilXD_World"
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url="https://t.me/Tabahi_chatting_group"
             ),
         ],
     ]
