@@ -63,13 +63,13 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="Group", url="https://t.me/DevilXD_World"),
+                text="Group", url="https://t.me/Tabahi_chatting_group"),
             InlineKeyboardButton(
-                text="Channel", url="https://t.me/About_Devil_XD"),
+                text="About", url="https://t.me/About_Devil_XD"),
             InlineKeyboardButton(
-                text="𓆩🖤𓆪", user_id="6743351101"),
+                text="𓆩🖤𓆪", user_id="6791925138"),
             InlineKeyboardButton(
-                text="Devil_Network", url="https://t.me/Devil_fedban"),
+                text="Feelings", url="https://t.me/feelings_for_you_baby"),
             InlineKeyboardButton(
                 text="💜", url="https://t.me/Assaulted_dark"
             ),
