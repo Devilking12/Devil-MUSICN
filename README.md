@@ -74,11 +74,11 @@
 
 For any questions or assistance, feel free to reach out:
 
-- Contact options listed on [this GitHub profile](https://github.com/NOBITA-RDX).
-- **Telegram Channel:** [ʀᴅx ʙᴏᴛᴢ](https://t.me/BTZ10R)
-- **Telegram Support Group:** [ʀᴅx sᴜᴘᴘᴏʀᴛ](https://t.me/+xWcg-WBN1oBjMjk1)
+- Contact options listed on [this GitHub profile](https://github.com/Devilking12).
+- **Telegram Channel:** [Devil XD](https://t.me/feelings_for_you_baby)
+- **Telegram Support Group:** [Devil XD](https://t.me/Tabahi_chatting_group)
 
-Made with ❤️ by [**𝙍𝘿𝙓**](https://t.me/RAJDAUSAARDX)
+Made with ❤️ by [Devil XD](https://t.me/Assaulted_dark)
 
 Developed by:
 **credit**
