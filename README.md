@@ -1,6 +1,6 @@
 
 
-# Tabahi Music Bot <img src="https://img.shields.io/github/v/release/NOBITA-RDX/RDX-MUSICN?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
+# 𝕾𝖍𝖎𝖟𝖚𝖐𝖆 𝖒𝖚𝖘𝖎𝖈 𝕭𝖔𝖙 <img src="https://img.shields.io/github/v/release/Devilking12/Devil-MUSICN?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
 
 <img src="https://telegra.ph/file/3e72df6ef787df25f008e.jpg" align="middle" width="200" height="200"/>
 
