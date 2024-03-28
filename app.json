@@ -70,7 +70,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "If you dont know this, Leave as it is",
-            "value": "https://github.com/NOBITA-RDX/RDX-MUSICN",
+            "value": "https://github.com/Devilking12/Devil-MUSICN",
             "required": true
         }
     },
